@@ -9,7 +9,7 @@ This repository has been created to demonstrate Git and GitHub concepts. It serv
 git config --global user.name "Name"
 git config --global user.email "email@mail.com"
 git init
-git branch -m master main  //If repo started lcoally and has master branch instead of main
+git branch -m master main  //If repo started locally and has master branch instead of main
 git clone <repoURL>
 ```
 
